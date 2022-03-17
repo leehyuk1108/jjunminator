@@ -2,4 +2,4 @@
 
 This is a bot for Discord.
 
-Support many funny things except play music.
+뿌뿌뿌뿌이
